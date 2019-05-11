@@ -1,0 +1,13 @@
+El proyecto se compone de un total de 13 funciones que explicaremos brevemente a continuación:
+
+La función menu(): emplea los bucles do while y swtich-case para pedir al usuario lo que desea hacer con el programa, que puede ser encriptar o desencriptar por teclado o por fichero.
+La función menu0(): mediante un switch-case permite al usuario elegir entre introducir su propio texto empleando asignación dinámica de memoria o memoria estática con un máximo de 5000 caracteres.
+La función menu00(): permite al usuario elegir trabajar con el texto en mayúsculas o en minúsculas.
+La función menu01(): realiza la desencriptación por fichero.
+La función menu11(): abre ficheros introducidos por teclado.
+La función stadistica(): ofrece estadística de aparición de letras.
+La función encrip0(): pide al usuario una clave para posteriormente poder desencriptar el texto.
+La función desencrip0(): desencripta el texto a partir de una clave que introduce el usuario. 
+Las funciones desencrip01() y desencrip2(): relizan la desencriptación de un texto mediante diferentes algoritmos. 
+La función encrip2(): comienza un proceso para encriptar empleando algoritmos.
+Las funciones bruto1() y bruto2(): devuelven intentos de texto desencriptado hasta que el usuario encuentra su texto a partir de letras minúsculas y letras mayúsculas respectivamente.
